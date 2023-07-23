@@ -24,7 +24,7 @@ To install PatternRecognitionTest, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/rdigiovanni/PatternRecognitionTest.git
+    git clone https://github.com/RobertoDG92/PatternRecognitionTest.git
     ```
 2. Navigate to the project directory:
     ```bash
