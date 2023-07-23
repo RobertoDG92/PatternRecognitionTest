@@ -1,7 +1,7 @@
-package rdigiovanni.Service.Implementation;
+package rdigiovanni.service.implementation;
 
 import org.springframework.stereotype.Service;
-import rdigiovanni.Service.PointService;
+import rdigiovanni.service.PointService;
 import rdigiovanni.entity.Line;
 import rdigiovanni.entity.Point;
 

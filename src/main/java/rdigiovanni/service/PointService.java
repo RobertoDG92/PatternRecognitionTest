@@ -1,4 +1,4 @@
-package rdigiovanni.Service;
+package rdigiovanni.service;
 
 import rdigiovanni.entity.Line;
 import rdigiovanni.entity.Point;
